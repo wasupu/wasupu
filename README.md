@@ -27,8 +27,9 @@ We think that one of the core technologies to design and create autonomous robot
 
 ### Phase 1: Heya
 
-Test robots in a plain, square, walled world. Like a room. For more information visit the project [heya](https://github.com/wasupu/heya)
+The agent controls the movement of a character in a grid world. Some tiles of the grid are walkable, and others lead to the agent falling into the water. Additionally, the movement direction of the agent is uncertain and only partially depends on the chosen direction. The agent is rewarded for finding a walkable path to a goal tile.
 
+For more information visit the project [heya](https://github.com/wasupu/heya)
 
 See the wiki page [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
 
