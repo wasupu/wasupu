@@ -14,11 +14,16 @@ Wasupu (sumo) from the Japanese word for "wasp" (ワスプ)
 
 The initial phase of wasupu is learn and explore the techniques and technologies needed to create the robots.
 
-We think that one of the core technologies to design and create autonomous robots is deep reinforcement learning, the following projects are experiments to learn this technique:
-
 #### Deep reinforcement learning
 
+We think that one of the core technologies to design and create autonomous robots is deep reinforcement learning, the following projects are experiments to learn this technique:
+
 * https://github.com/wasupu/cart-pole
+* https://github.com/wasupu/frozen-lake
+
+#### Lego mindstorms
+
+* https://github.com/wasupu/drag-racer
 
 ### Phase 1: Heya
 
