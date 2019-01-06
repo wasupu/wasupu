@@ -4,6 +4,10 @@ The target of the project is explore Europa the satellite of Jupiter using micro
 
 For more information references, ideas and other stuff visit the project [wiki] (https://github.com/wasupu/wasupu/wiki/Roadmap)
 
+## The project name
+
+Wasupu (sumo) from the Japanese word for "wasp" (ワスプ)
+
 ## Roadmap
 
 ### Phase 0: Tanken suru
@@ -26,6 +30,3 @@ Test robots in a plain, any geometric, wallet world. Like a house. One autonomou
 
 See the [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
 
-## The project name
-
-Wasupu (sumo) from the Japanese word for "wasp" (ワスプ)
