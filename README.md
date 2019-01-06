@@ -21,5 +21,4 @@ Test robots in a plain, any geometric, wallet world. Like a house.
 
 One autonomous robot in a plain, any geometric, wallet world.
 
-## Phase 3: Niwa
 See the [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
