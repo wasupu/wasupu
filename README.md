@@ -28,5 +28,5 @@ Test robots in a plain, square, walled world. Like a room. For more information 
 
 Test robots in a plain, any geometric, wallet world. Like a house. One autonomous robot in a plain, any geometric, wallet world.
 
-See the [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
+See the wiki page [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
 
