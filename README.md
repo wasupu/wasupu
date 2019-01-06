@@ -2,7 +2,7 @@
 
 The target of the project is explore Europa the satellite of Jupiter using microrobots, many, small, low cost, autonomous robots.
 
-For more information references, ideas and other stuff visit the project [wiki] (https://github.com/wasupu/wasupu/wiki/Roadmap)
+For more information references, ideas and other stuff visit the project [wiki](https://github.com/wasupu/wasupu/wiki)
 
 ## The project name
 
