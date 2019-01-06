@@ -18,7 +18,7 @@ We think that one of the core technologies to design and create autonomous robot
 
 #### Deep reinforcement learning
 
-* https://github.com/wasupu/CartPole
+* https://github.com/wasupu/cart-pole
 
 ### Phase 1: Heya
 
