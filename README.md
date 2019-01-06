@@ -21,8 +21,11 @@ We think that one of the core technologies to design and create autonomous robot
 Test robots in a plain, square, walled world. Like a room. For more information visit the project [heya](https://github.com/wasupu/heya)
 
 ### Phase 2: Ie
-Test robots in a plain, any geometric, wallet world. Like a house.
 
-One autonomous robot in a plain, any geometric, wallet world.
+Test robots in a plain, any geometric, wallet world. Like a house. One autonomous robot in a plain, any geometric, wallet world.
 
 See the [roadmap](https://github.com/wasupu/wasupu/wiki/Roadmap) for a more detailed explanation
+
+## The project name
+
+Wasupu (sumo) from the Japanese word for "wasp" (ワスプ)
