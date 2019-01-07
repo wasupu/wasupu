@@ -1,6 +1,6 @@
 # Wasupu
 
-The target of the project is explore Europa the satellite of Jupiter using microrobots, many, small, low cost, autonomous robots.
+The target of the project is explore [Europa](https://en.wikipedia.org/wiki/Europa_(moon)) the satellite of [Jupiter](https://en.wikipedia.org/wiki/Jupiter) using microrobots, many, small, low cost, autonomous robots.
 
 For more information references, ideas and other stuff visit the project [wiki](https://github.com/wasupu/wasupu/wiki)
 
