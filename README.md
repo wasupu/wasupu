@@ -24,7 +24,7 @@ We think that one of the core technologies to design and create autonomous robot
 #### Lego mindstorms
 
 * https://github.com/wasupu/drag-racer
-* https://github.com/wasupu/omni-wheel
+* https://github.com/wasupu/walker
 
 ### Phase 1: Heya
 
